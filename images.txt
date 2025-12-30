@@ -1,4 +1,4 @@
 nginx
-alibaba/nacos
+nacos/nacos-server
 
 
