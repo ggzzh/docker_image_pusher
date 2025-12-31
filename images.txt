@@ -3,5 +3,6 @@ nacos/nacos-server
 mysql:8.0
 redis:7-alpine
 rabbitmq
-elasticsearch
+elasticsearch:8.11.0
+kibana:8.11.0
 jenkins/jenkins:lts-jdk17
