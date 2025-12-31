@@ -1,4 +1,7 @@
 nginx
 nacos/nacos-server
-mysql
-
+mysql:8.0
+redis:7-alpine
+rabbitmq
+elasticsearch
+jenkins/jenkins:lts-jdk17
